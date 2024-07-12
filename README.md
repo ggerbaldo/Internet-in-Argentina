@@ -11,11 +11,15 @@
 
 
 ### Descripción de situación
-Como Analista de Datos, se nos solicita realizar un análisis completo para detectar información sobre el comportamiento del sistema de telecomunicaciones
-de Argentina, considerando que la principal actividad de la empresa es brindar acceso a internet. Se requiere realizar un informe del proceso de análisis
-y el desarrollo de un dashboard interactivo para la visualización de la información.
 
-### Consideraciones previas
+Como Analista de Datos, se nos ha encomendado realizar un análisis exhaustivo del sistema de telecomunicaciones en Argentina, con un enfoque en la provisión de acceso a Internet. Nuestra tarea incluye los siguientes pasos:
+
+Revisión de conjuntos de datos: Iniciaremos examinando diferentes conjuntos de datos relevantes.
+Proceso ETL (Extracción, Transformación y Carga): Utilizaremos Visual Studio Code para extraer, transformar y cargar los datos, preparándolos para el análisis.
+Análisis Exploratorio detallado (EDA): Realizaremos un análisis profundo para identificar patrones, tendencias y comportamientos en el sistema de telecomunicaciones.
+Desarrollo de un dashboard interactivo: Finalmente, crearemos un dashboard interactivo utilizando Power BI para visualizar la información de manera efectiva.
+
+### Revisión de conjuntos de datos
 Para comenzar con las tareas de análisis se nos brindan siete (7) dataset del Ente Nacional de Comunicaciones de Argentina (Enacom) en formato Excel:
 
 1. Internet
@@ -61,7 +65,22 @@ A continuación, se presenta una descripción detallada del contenido de los con
 
 - **MAPA CONECTIVIDAD DATASET:**
    En este conjunto de datos se encuentramos información sobre el acceso a telefonia fija e Internet por tecnología (ADSL, Fibra óptica, cablemódem, etc.), además de su
-  ubicación geométrica por localidad. Lo importaremos para realizar algún gráfico geaográfico.
+  ubicación geométrica por localidad. Lo importaremos para realizar algún gráfico geaográfico (**df_partido**).
 
 - En este estudio, no se considerarán los conjuntos de datos de **PORTABILIDAD** (relacionados con telefonía móvil y empresas prestadoras) ni los datos de **SERVICIOS POSTALES**. El enfoque de la investigación se centra en otros aspectos de la conectividad, como el acceso a Internet o la infraestructura tecnológica, por lo cual no es necesario incluir información sobre los mismos.”
   
+
+### Proceso de ETL (Extracción, Transformación y Carga)
+
+En esta etapa del desarrollo, nos focalizaremos en transformar los distintos conjuntos de datos, utilizando la herramienta Visual Studio Code (VSC), para obtener los dataframes finales que serán la fuente de datos desde donde obtendremos la información que nos permita entender y proyectar el funcionamiento y dinámica actual del sector de las telecomunicaciones en Argentina.
+
+Aplicando la librería del lenguaje Python, PANDAS, cargamos de manera separada cada una de las pestañas de los archivos Excel en VSC para su transformación.
+Durante el proceso de normalización de los datos, se encuentran y corrigen algunos caracteres especiales y formatos de celdas, para finalmente obtener cuatro (4) dataframes: **df_provincia**, **df_localidad**, **df_trimestre**, **df_partido** (
+
+
+
+
+
+
+
+
