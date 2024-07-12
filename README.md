@@ -55,9 +55,16 @@ A continuación, se presenta una descripción detallada del contenido de los con
 - **TELEVISIÓN DATASET:**
   Este conjunto de datos consta de cinco (5) pestañas, que incluyen información sobre el acceso a la televisión por provincia y en total, así como la penetración por provincia y en total. Sin embargo, nos centraremos exclusivamente en los datos de ingresos para realizar una comparativa de participación con respecto a otros servicios.
 
-- **TELEFONÍA FIJA:**
+- **TELEFONÍA FIJA DATASET:**
    Similar al anterior, este conjunto de datos consta de cinco (5) pestañas, que incluyen información sobre el acceso a la telefonía fija por provincia y total (diferenciando las
   accesos entre HOGAR, COMERCIAL, GUBERNAMENTAL y o  tros.), así como la penetración por provincia y en total. Asimismo, nos centraremos exclusivamente en los datos de ingresos para realizar una comparativa de participación con respecto a otros servicios.
 
+- **MAPA CONECTIVIDAD DATASET:**
+   En este conjunto de datos se encuentramos información sobre el acceso a telefonia fija e Internet por tecnología (ADSL, Fibra óptica, cablemódem, etc.), además de su
+  ubicación geométrica por localidad. Lo importaremos para realizar algún gráfico geaográfico.
 
+- Los datasets de **PORTABILIDAD**, sobre telefonía móvil y empresas prestadoras, y **SERVICIOS POSTALES**, no serán considerados para el desarrollo de este estudio
+  ya que el mismo se centra en otros aspectos de la conectividad, como el acceso a Internet fijo o la infraestructura de banda ancha, por lo tanto, no sería necesario incluir datos de portabilidad o servicios postales.
+
+  En este estudio, no se considerarán los conjuntos de datos de **PORTABILIDAD** (relacionados con telefonía móvil y empresas prestadoras) ni los datos de **SERVICIOS POSTALES**. El enfoque de la investigación se centra en otros aspectos de la conectividad, como el acceso a Internet o la infraestructura tecnológica, por lo cual no es necesario incluir información sobre portabilidad o servicios postales.”
   
