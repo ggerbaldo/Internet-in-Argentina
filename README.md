@@ -63,8 +63,5 @@ A continuación, se presenta una descripción detallada del contenido de los con
    En este conjunto de datos se encuentramos información sobre el acceso a telefonia fija e Internet por tecnología (ADSL, Fibra óptica, cablemódem, etc.), además de su
   ubicación geométrica por localidad. Lo importaremos para realizar algún gráfico geaográfico.
 
-- Los datasets de **PORTABILIDAD**, sobre telefonía móvil y empresas prestadoras, y **SERVICIOS POSTALES**, no serán considerados para el desarrollo de este estudio
-  ya que el mismo se centra en otros aspectos de la conectividad, como el acceso a Internet fijo o la infraestructura de banda ancha, por lo tanto, no sería necesario incluir datos de portabilidad o servicios postales.
-
-  En este estudio, no se considerarán los conjuntos de datos de **PORTABILIDAD** (relacionados con telefonía móvil y empresas prestadoras) ni los datos de **SERVICIOS POSTALES**. El enfoque de la investigación se centra en otros aspectos de la conectividad, como el acceso a Internet o la infraestructura tecnológica, por lo cual no es necesario incluir información sobre portabilidad o servicios postales.”
+- En este estudio, no se considerarán los conjuntos de datos de **PORTABILIDAD** (relacionados con telefonía móvil y empresas prestadoras) ni los datos de **SERVICIOS POSTALES**. El enfoque de la investigación se centra en otros aspectos de la conectividad, como el acceso a Internet o la infraestructura tecnológica, por lo cual no es necesario incluir información sobre los mismos.”
   
