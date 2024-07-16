@@ -119,13 +119,29 @@ Lo primero que observamos es el avance de las nuevas tecnologías, como el Cable
 
 Al investigar las medidas tomadas en el país en referencia al mundo de las telecomunicaciones, encontramos que desde el año 2010 se viene elaborando un plan nacional de conexión a una red de fibra óptica para todo el territorio argentino, llamado Red Federal de Fibra Óptica (REFERO).
 
-A través de este plan, comenzaron a visualizarse las primeras conexiones a la red de fibra óptica entre los años 2013 y 2014. Luego, se produjo un primer gran salto entre los años 2018 y 2021, coincidiendo con el aislamiento social preventivo y obligatorio decretado por el gobierno nacional para proteger la salud pública durante la pandemia de Covid-19. Posteriormente, se observa un segundo salto positivo en la tendencia de la curva a partir del año 2021, probablemente debido al avance de la red a lo largo del territorio y una mayor disponibilidad técnica para llegar a los hogares y ampliar las conexiones.
+Durante la implementación de este plan, comenzaron a surgir las primeras conexiones a la red de fibra óptica entre los años 2013 y 2014. Luego, se produjo un importante avance entre los años 2018 y 2021, coincidiendo con el período de aislamiento social preventivo y obligatorio decretado por el gobierno nacional para proteger la salud pública durante la pandemia de Covid-19. Posteriormente, se observa un segundo incremento positivo en la tendencia de la curva a partir del año 2021, probablemente debido al despliegue continuo de la red en todo el territorio y a una mayor disponibilidad técnica para conectar hogares y ampliar las conexiones.
 
-Por otra parte, el avance tecnologico y expansión de ambas tecnologías (cablemodem y fibra optica), generan un crecimiento de las velocidad media de bajada (medida en megabytes por segundo - mbps), lo cual podemos observar en el gráfico siguiente:
+Además, el progreso tecnológico y la expansión de ambas tecnologías (cablemódem y fibra óptica) han contribuido al aumento de la velocidad promedio de descarga (medida en megabytes por segundo - Mbps), como se muestra en el siguiente gráfico:
 
 ![image](https://github.com/user-attachments/assets/a7aef370-b4e9-4ca0-98cb-18c9620293aa)
 
 
+En el mismo se puede apreciar, el salto de la curva cuando se expanden en conjunto ambas tecnologias (cablemodem y fira óptica), pero a partir de 2022, la influencia de la fibra óptica en el crecimiento de la velocidad es significativo.
 
+Posteriormente, analizamos la distribución de las distintas velocidades de conexión. En el gráfico correspondiente, se observa que para el año 2023, aunque se espera que las conexiones con velocidades superiores a 30 Mbps tengan una parte significativa del mercado, también es evidente que las velocidades más bajas aún ocupan una porción importante.
+
+![image](https://github.com/user-attachments/assets/5251fb5f-1a61-4059-b5a9-3aaa0a2b19bc)
+
+
+Esto nos permitiría considerar que, del mercado actual (recordemos que el mismo está en expansión) se podría trabajar en una mejora de calidad con los usuarios actualmente ya conectados, lo que generaría nuevos recursos economicos para la compañia. Pero, sigamos avanzando con nuestro análisis.
+
+A continuación, vamos a enfocarnos en los ingresos por servicio, realizando una comparativa porcentual de la participación de los ingresos totales por servicio de internet, telefonia móvil y TV. 
+En un primer análisis, evaluamos los ingresos con valores netos, pero los movimientos inflacionarios del país no proporcionaban una perspectiva comparativa adecuada. Por lo tanto, decidimos centrarnos en las medidas porcentuales. Es importante destacar que esperábamos resultados diferentes debido a la idea preconcebida de que las tecnologías emergentes, como los smart TVs conectados a Internet, reemplazarían el servicio de TV por cable tradicional. Además, la entrada de nuevos actores en el mercado, como Claro y Movistar, que ofrecían fibra óptica de alta velocidad pero no el servicio de TV por cable tradicional, también influyó en nuestras expectativas.
+
+
+![image](https://github.com/user-attachments/assets/b2c713a5-e5fc-4cc2-a8b9-35958ecc60f5)
+
+
+Sin embargo, al observar la gráfica, notamos que, aunque hay una disminución en las conexiones porcentuales del servicio de TV por cable, la tendencia no es lo suficientemente significativa como para centrarnos exclusivamente en este tema.
 
 
