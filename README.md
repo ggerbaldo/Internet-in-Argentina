@@ -115,6 +115,17 @@ Realizamos un primer análisis de la evolución de accesos a internet de acuerdo
 ![image](https://github.com/user-attachments/assets/59c78118-6147-42d9-bf78-3926e9b6e77b)
 
 
+Lo primero que observamos es el avance de las nuevas tecnologías, como el Cablemódem y la Fibra óptica. En consecuencia, se ha producido una caída en los accesos a tecnologías más antiguas, como el ADSL y la casi extinta Dial Up (conexión a través de la línea telefónica). Para el último trimestre de 2023, la Dial Up registra menos de 12 mil conexiones.
+
+Al investigar las medidas tomadas en el país en referencia al mundo de las telecomunicaciones, encontramos que desde el año 2010 se viene elaborando un plan nacional de conexión a una red de fibra óptica para todo el territorio argentino, llamado Red Federal de Fibra Óptica (REFERO).
+
+A través de este plan, comenzaron a visualizarse las primeras conexiones a la red de fibra óptica entre los años 2013 y 2014. Luego, se produjo un primer gran salto entre los años 2018 y 2021, coincidiendo con el aislamiento social preventivo y obligatorio decretado por el gobierno nacional para proteger la salud pública durante la pandemia de Covid-19. Posteriormente, se observa un segundo salto positivo en la tendencia de la curva a partir del año 2021, probablemente debido al avance de la red a lo largo del territorio y una mayor disponibilidad técnica para llegar a los hogares y ampliar las conexiones.
+
+Por otra parte, el avance tecnologico y expansión de ambas tecnologías (cablemodem y fibra optica), generan un crecimiento de las velocidad media de bajada (medida en megabytes por segundo - mbps), lo cual podemos observar en el gráfico siguiente:
+
+![image](https://github.com/user-attachments/assets/a7aef370-b4e9-4ca0-98cb-18c9620293aa)
+
+
 
 
 
