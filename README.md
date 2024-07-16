@@ -1,7 +1,5 @@
-![image](https://github.com/user-attachments/assets/7d01830e-6d33-4dce-aa10-dd0168391332)
 
-
-## Proyecto Individual nro 2 - Guillermo Gerbaldo
+## Proyecto Individual - Guillermo Gerbaldo
 
 
 
@@ -10,16 +8,39 @@
 ![image](https://github.com/user-attachments/assets/e6d45c51-1051-41ce-96ec-a9673e014142)
 
 
+
+
 ### Descripción de situación
 
-Como Analista de Datos, se nos ha encomendado realizar un análisis exhaustivo del sistema de telecomunicaciones en Argentina, con un enfoque en la provisión de acceso a Internet. Nuestra tarea incluye los siguientes pasos:
+Como Analista de Datos, se me ha encomendado realizar un análisis exhaustivo del sistema de telecomunicaciones en Argentina, con un enfoque en la provisión de acceso a Internet. 
+Este trabajo incluye la definición de tres índices clave de rendimiento del negocio KPI (uno sugerido por el contratista), los cuales nos permitirán mostrar el progreso de la empresa o sus equipos de trabajo respecto de los objetivos empresariales más importantes, y acuar de manera flexible y rápida sobre las estrategias y procesos.
+
+El desarrollo del trabajo consta de las siguientes etapas: 
 
 Revisión de conjuntos de datos: Iniciaremos examinando diferentes conjuntos de datos relevantes.
-Proceso ETL (Extracción, Transformación y Carga): Utilizaremos Visual Studio Code para extraer, transformar y cargar los datos, preparándolos para el análisis.
+Proceso ETL (Extracción, Transformación y Carga): Preparación y limpieza de los datos para el análisis exploratorio.
 Análisis Exploratorio detallado (EDA): Realizaremos un análisis profundo para identificar patrones, tendencias y comportamientos en el sistema de telecomunicaciones.
-Desarrollo de un dashboard interactivo: Finalmente, crearemos un dashboard interactivo utilizando Power BI para visualizar la información de manera efectiva.
+Desarrollo de un dashboard interactivo: Creación de un dashboard interactivo para visualizar la información de manera efectiva.
+Establecimiento de concludiones finales y sugerencias.
+
+---------------------------------------------------------------------------------------------------
+
+### Herramientas utlizadas
+
+![image](https://github.com/user-attachments/assets/c8a0d16b-8282-4ce3-bf5d-752a90506db3)
+
+![image](https://github.com/user-attachments/assets/bcc2a5b1-84f9-4f6e-8427-c5f4206d8b1e)
+
+
+----------------------------------------------------------------------------------------------------
+
 
 ### Revisión de conjuntos de datos
+
+![image](https://github.com/user-attachments/assets/50cb68f6-3c8a-4bb7-91c3-ca7e9e27fd7d)
+
+
+
 Para comenzar con las tareas de análisis se nos brindan siete (7) dataset del Ente Nacional de Comunicaciones de Argentina (Enacom) en formato Excel:
 
 1. Internet
@@ -72,13 +93,26 @@ A continuación, se presenta una descripción detallada del contenido de los con
 
 ### Proceso de ETL (Extracción, Transformación y Carga)
 
-En esta etapa del desarrollo, nos focalizaremos en transformar los distintos conjuntos de datos, utilizando la herramienta Visual Studio Code (VSC), para obtener los dataframes finales que serán la fuente de datos desde donde obtendremos la información que nos permita entender y proyectar el funcionamiento y dinámica actual del sector de las telecomunicaciones en Argentina.
+En esta etapa del desarrollo, nos focalizaremos en transformar los distintos conjuntos de datos, utilizando la herramienta **Visual Studio Code (VSC)**, para obtener las estructuras de datos finales (dataframes) que serán la fuente de datos desde donde obtendremos la información que nos permita entender y proyectar el funcionamiento y dinámica actual del sector de las telecomunicaciones en Argentina.
 
-Aplicando la librería del lenguaje Python, PANDAS, cargamos de manera separada cada una de las pestañas de los archivos Excel en VSC para su transformación.
-Durante el proceso de normalización de los datos, se encuentran y corrigen algunos caracteres especiales y formatos de celdas, para finalmente obtener cuatro (4) dataframes: **df_provincia**, **df_localidad**, **df_trimestre**, **df_partido** (
+Iniciamos con el dataset de **internet**. Aplicando la librería del lenguaje Python, PANDAS, cargamos de manera separada cada una de las pestañas de los archivos Excel en VSC para su transformación.
+Durante el proceso de normalización de los datos, se encuentran y corrigen algunos caracteres especiales y formatos de celdas, para finalmente obtener tres (3) dataframes, con distinta profundidad de información: **df_provincia**, **df_localidad**, **df_trimestre**, 
+
+Luego se transformó el dataset de Mapa de Conectividades, en la estructura de datos **df_partido**, la cual se utilizó para realizar analisis visuales de mapas geolocalizados del territorio argentino.
+
+De los dataset restantes sólo se extrajeron los registros de **ingreso** monetario para realizar un análisis económico comparativo entre los distintos servicios: Internet, Telefonía Móvil y servcios de TV. No fue considerado el dataset de telefonía fija para este proyecto. 
+
+----------------------------------------------
+
+### Análisis Exploratorio de datos (EDA)
 
 
+Para iniciar el análisis exploratorio de datos, cargamos los datasets que se trabajaron en la etapa de ETL en la herramienta Visual Studio Code. Previamente, se importan las librerías de Python necesarias para la manipulación y visualización de los datos.
+En primer lugar, realizamos una revisión de los tipos de datos y verificamos que concuerden con la información que se espera de cada dato. También comprobamos la existencia de valores anómalos o extremos (outliers), nulos o ceros. En este caso, observamos que el número de outliers es mínimo, por lo que consideramos que no afectarán significativamente las métricas del conjunto de datos. Por lo tanto, continuamos nuestro análisis utilizando los datos completos del dataset.
 
+Realizamos un primer análisis de la evolución de accesos a internet de acuerdo a las distintas tecnologías. 
+
+![image](https://github.com/user-attachments/assets/59c78118-6147-42d9-bf78-3926e9b6e77b)
 
 
 
