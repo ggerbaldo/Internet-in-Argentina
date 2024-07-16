@@ -163,9 +163,17 @@ Más adelante, se analizó el porcentaje promedio de conexiones cada 100 hogares
 
 ![image](https://github.com/user-attachments/assets/9dc893ae-af5f-434b-a5db-c409c758b66f)
 
-Obsérvese que existen provincias donde el acceso cada 100 hogares no llega al 40%. Si consideramos que la curva de crecimiento de la velocidad media y el crecimiento de la fibra óptica es mayor a la pendiente de incremento de accesos cada 100 hogares, junto con la existecias de varias provincias por debajo del 40% de conexiones por cada 100 hogares, podemos coniderar que existiría una oportunidad comercial para adquirir nuevas accesos y nuevos clientes.
+Observamos que en algunas provincias, el acceso a Internet por cada 100 hogares no alcanza el 40%. Si tenemos en cuenta que la tasa de crecimiento de la velocidad media y la expansión de la fibra óptica superan la tasa de aumento de accesos por cada 100 hogares, y considerando que varias provincias están por debajo del 40% de conexiones por cada 100 hogares, podríamos identificar una oportunidad comercial para adquirir nuevos clientes y conexiones.
+
+Luego analizamos en detalle qué sucede con la velocidad media de bajada en cada provincia, cual fue su evolución y si encontramos algún patrón poco común.
+
+![image](https://github.com/user-attachments/assets/33a9c336-59d9-43cf-8bdb-0ff410025f3e)
 
 
+En el gráfico anterior se  observa que la mayor concentración de la red de fibra óptica se encuentra en las grandes ciudades, lo que impacta directamente en la velocidad media de descarga. Ciudad de Buenos Aires, Gran Buenos Aires, Santa Fe o Córdoba presentan valores más altos. Además, es importante mencionar el programa ‘San Luis a Mil’, lanzado en 2022 en la provincia de San Luis, que introdujo la red de fibra óptica en las 25 localidades más importantes de la provincia. Este esfuerzo se refleja en el gráfico con un salto exponencial en la tendencia de la curva
+
+
+Luego analizamos que sucede con la penetración respecto de a las conexiones y las distintas tecnologías, y observamos que 
 
 
 
