@@ -144,4 +144,29 @@ En un primer análisis, evaluamos los ingresos con valores netos, pero los movim
 
 Sin embargo, al observar la gráfica, notamos que, aunque hay una disminución en las conexiones porcentuales del servicio de TV por cable, la tendencia no es lo suficientemente significativa como para centrarnos exclusivamente en este tema.
 
+----------------------------------------------------------------------------------------------------------------------------
+
+### Analizamos posteriormente los datos con mayor profundidad a nivel provincia
+
+Considerando el objetivo de la compañia de incrementar 2% el nivel de conexiones cada 100 hogares, vemos la evolución de conexiones por cada 100 habitantes y hogares.
+
+![image](https://github.com/user-attachments/assets/68bc1270-e0b6-4a27-b6bf-9cc122f84cec)
+
+Al igual que lo sucedido con la penetración tecnologica y la curva ascendente de velocidad, las conexiones, tanto cada 100 habitantes como cada 100 hogares, muestran una tendencia alcista. Sin embargo, en el término de los últimos dos (2) años el incremento es de sólo un 14% de conexiones cada 100 hogares. 
+Luego, se analizó qué sucede en cada provincia.
+
+![image](https://github.com/user-attachments/assets/9d54fb03-3286-4077-992d-323f26394c33)
+
+Allí se observa distintas curvas de crecimiento aunque con algun patrón similar al gráfico de conexiones por cada 100 hogares.
+
+Más adelante, se analizó el porcentaje promedio de conexiones cada 100 hogares por provincia y se descubrió otra posible oportunidad.
+
+![image](https://github.com/user-attachments/assets/9dc893ae-af5f-434b-a5db-c409c758b66f)
+
+Obsérvese que existen provincias donde el acceso cada 100 hogares no llega al 40%. Si consideramos que la curva de crecimiento de la velocidad media y el crecimiento de la fibra óptica es mayor a la pendiente de incremento de accesos cada 100 hogares, junto con la existecias de varias provincias por debajo del 40% de conexiones por cada 100 hogares, podemos coniderar que existiría una oportunidad comercial para adquirir nuevas accesos y nuevos clientes.
+
+
+
+
+
 
