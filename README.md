@@ -3,7 +3,7 @@
 
 
 
-## TELECOMUNICACIONES
+## ESTUDIO SOBRE LAS TELECOMUNICACIONES EN LA REPÚBLICA ARGENTINA
 
 ![image](https://github.com/user-attachments/assets/e6d45c51-1051-41ce-96ec-a9673e014142)
 
@@ -17,11 +17,11 @@ Este trabajo incluye la definición de tres índices clave de rendimiento del ne
 
 El desarrollo del trabajo consta de las siguientes etapas: 
 
-Revisión de conjuntos de datos: Iniciaremos examinando diferentes conjuntos de datos relevantes.
-Proceso ETL (Extracción, Transformación y Carga): Preparación y limpieza de los datos para el análisis exploratorio.
-Análisis Exploratorio detallado (EDA): Realizaremos un análisis profundo para identificar patrones, tendencias y comportamientos en el sistema de telecomunicaciones.
-Desarrollo de un dashboard interactivo: Creación de un dashboard interactivo para visualizar la información de manera efectiva.
-Establecimiento de concludiones finales y sugerencias.
+**Revisión de conjuntos de datos:** Iniciaremos examinando diferentes conjuntos de datos relevantes.</p>
+**Proceso ETL (Extracción, Transformación y Carga):** Preparación y limpieza de los datos para el análisis exploratorio.</p>
+**Análisis Exploratorio detallado (EDA):** Realizaremos un análisis profundo para identificar patrones, tendencias y comportamientos en el sistema de telecomunicaciones.</p>
+**Desarrollo de un dashboard interactivo:** Creación de un dashboard interactivo para visualizar la información de manera efectiva.</p>
+**Establecimiento de concluciones finales y recomendaciones**.
 
 ---------------------------------------------------------------------------------------------------
 
@@ -173,7 +173,57 @@ Luego analizamos en detalle qué sucede con la velocidad media de bajada en cada
 En el gráfico anterior se  observa que la mayor concentración de la red de fibra óptica se encuentra en las grandes ciudades, lo que impacta directamente en la velocidad media de descarga. Ciudad de Buenos Aires, Gran Buenos Aires, Santa Fe o Córdoba presentan valores más altos. Además, es importante mencionar el programa ‘San Luis a Mil’, lanzado en 2022 en la provincia de San Luis, que introdujo la red de fibra óptica en las 25 localidades más importantes de la provincia. Este esfuerzo se refleja en el gráfico con un salto exponencial en la tendencia de la curva
 
 
-Luego analizamos que sucede con la penetración respecto de a las conexiones y las distintas tecnologías, y observamos que 
+Posteriormente, analizamos la penetración en relación con las conexiones y las distintas tecnologías. Observamos que el cablemódem aún tiene una gran participación en el segmento de alta velocidad. Esto podría considerarse como una oportunidad de crecimiento en los ingresos de la compañia si logramos mejorar la tecnología para los usuarios de cablemódem y los migramos a la fibra óptica.
+
+![image](https://github.com/user-attachments/assets/3899387d-a044-4af6-84fd-6aafb3f5703a)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+### Análisis de los mapas satelitales
+
+![image](https://github.com/user-attachments/assets/d1008201-c788-47e9-a596-5626f7a47f8e)
+![image](https://github.com/user-attachments/assets/1d2cad34-1f53-4838-810d-94d6bb16aa5b)
+
+En este análisis, utilizamos herramientas de geolocalización para comprender visualmente las distancias significativas entre las localidades en todo el país. Observamos similitudes en los gráficos de distribución para la telefonía fija, la tecnología inalámbrica (wireless) y la red 4G. Sin embargo, la penetración del servicio satelital muestra conexiones más limitadas. Se espera que en los próximos trimestres este servicio experimente un aumento en la cobertura debido al reciente anuncio de la entrada de la empresa Starlink al país. Starlink competirá con la estatal Arsat en la prestación de servicios satelitales.
+
+
+
+![image](https://github.com/user-attachments/assets/967bda57-8e84-4da3-ae9a-16418e90f86d)
+![image](https://github.com/user-attachments/assets/b6be2847-9089-4e83-be07-f83504c86b11)
+
+
+En los gráficos, se puede observar que la fibra óptica tiene una mayor cobertura que las otras tecnologías. Esto sugiere que sería un buen escenario para trabajar en la actualización tecnológica de los usuarios, como mencionáramos anteriormente. Es importante recordar que la penetración de la red de fibra óptica contribuye a reducir los costos de acceso al mercado mayorista de Internet. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Indicadores clave de rendimiento (KPI's - key performance indicator) 
+
+Como mencionamos el primer KPI sobre el cual se nos solicitó analizar es el siguiente: **"Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre"**
+
+En relación al análisis exploratorio de datos, podemos proponer los siguintes indicadores clave:
+
+KPI 2 = Aumentar en un 5% la velocidad media para el próximo trimestre, medido cada 100 hogares por provincia. 
+
+KPI 3 = Aumentar en un 15% el acceso a servicios de Internet a través de fibra óptica para el próximo trimestre, medido como porcentaje de hogares por provincia. 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+### Conclusiones: 
+
+El avance de las nuevas tecnologías, como el cablemódem y la fibra óptica, ha contribuido al aumento de la velocidad promedio de descarga en todo el territorio de la República Argentina. Desde 2010, se ha estado implementando un plan nacional para conectar todo el país por medio de una red de fibra óptica llamada Red Federal de Fibra Óptica (REFERO). La expansión de esta red fue impulsada por la coyuntura mundial generada por el aislamiento de la sociedad debido a la pandemia del COVID-19, entre los años 2020 y 2022.
+
+El presente estudio permite identificar algunas oportunidades comerciales para la compañía, según los siguientes aspectos:
+
+**Oportunidad de crecimiento en la cantidad de conexiones:** Se ha detectado que la curva de incremento de los últimos dos años en conexiones por cada 100 hogares es menor en comparación con el avance de la tecnología. Además, varias provincias tienen una penetración de menos del 40% en conexiones por cada 100 hogares, y muchas están por debajo del 60%, lo que sugiere la presencia de potenciales nuevos clientes.
+
+**Conexiones de baja velocidad:** La participación de conexiones con una baja velocidad media de descarga sigue siendo significativa, alrededor del 30%. Esto indica una oportunidad para mejorar tecnológicamente los servicios (upgrade) para los clientes actuales.
+
+**Migración a fibra óptica:** La expansión de la red de fibra óptica ofrece una oportunidad comercial para realizar upgrades tecnológicos en clientes con conexión de cablemódem, quienes probablemente estén interesados en obtener velocidades más altas.
+
+### Recomendaciones:
+Como se observa en el presente estudio, la migración hacia tecnologías más avanzadas y la expansión de la fibra óptica han sido los principales impulsores del cambio en el panorama de las telecomunicaciones en Argentina. Se recomienda seguir promoviendo la adopción de la fibra óptica y considerar mejoras tecnológicas para los usuarios de cablemódem, aprovechando la oportunidad de crecimiento en ingresos que esto podría generar.
+
+Para ello, se ha desarrollado un panel de control (dashboard interactivo) mediante la herramienta Power BI, que facilitará el monitoreo de cada uno de los indicadores de rendimiento propuestos (KPIs).
 
 
 
