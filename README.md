@@ -13,7 +13,7 @@
 ### Descripción de situación
 
 Como Analista de Datos, se me ha encomendado realizar un análisis exhaustivo del sistema de telecomunicaciones en Argentina, con un enfoque en la provisión de acceso a Internet. 
-Este trabajo incluye la definición de tres índices clave de rendimiento del negocio KPI (uno sugerido por el contratista), los cuales nos permitirán mostrar el progreso de la empresa o sus equipos de trabajo respecto de los objetivos empresariales más importantes, y acuar de manera flexible y rápida sobre las estrategias y procesos.
+Este trabajo incluye la definición de tres índices clave de rendimiento del negocio KPI (uno sugerido por el contratista), los cuales nos permitirán mostrar el progreso de la empresa o sus equipos de trabajo respecto de los objetivos empresariales más importantes, y actuar de manera flexible y rápida sobre las estrategias y procesos.
 
 El desarrollo del trabajo consta de las siguientes etapas: 
 
