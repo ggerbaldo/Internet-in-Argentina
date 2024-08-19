@@ -21,7 +21,7 @@ El desarrollo del trabajo consta de las siguientes etapas:
 **Proceso ETL (Extracción, Transformación y Carga):** Preparación y limpieza de los datos para el análisis exploratorio.</p>
 **Análisis Exploratorio detallado (EDA):** Realizaremos un análisis profundo para identificar patrones, tendencias y comportamientos en el sistema de telecomunicaciones.</p>
 **Desarrollo de un dashboard interactivo:** Creación de un dashboard interactivo para visualizar la información de manera efectiva.</p>
-**Establecimiento de concluciones finales y recomendaciones**.
+**Establecimiento de conclusiones finales y recomendaciones**.
 
 ---------------------------------------------------------------------------------------------------
 
